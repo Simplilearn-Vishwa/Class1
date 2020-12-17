@@ -22,7 +22,7 @@ public class Calculator {
 					+ "Press 2 for Subtraction."
 					+ "Press 3 for Multiplication."
 					+ "Press 4 for Division"
-					+ "Press 5 to Exit");
+					);
 		
 		int choice = sc.nextInt();
 		switch(choice) {
